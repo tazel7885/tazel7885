@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ### 👊 Skills
 ## Languages
-![trophy](https://github-profile-trophy.vercel.app/?username=본인ID)
+![trophy](https://github-profile-trophy.vercel.app/?username=tazel7885)
