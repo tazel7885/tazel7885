@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ### 👊 Skills
+## Languages
+![trophy](https://github-profile-trophy.vercel.app/?username=본인ID)
