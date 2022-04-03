@@ -13,5 +13,3 @@ I am interested in SLAM.
 ## Robotics
 <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tazel7885&theme=blue-green)
